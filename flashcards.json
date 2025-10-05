@@ -19,11 +19,7 @@
     "wrong_answer_1": "Nose, mouth, chin, sternum",
     "wrong_answer_2": "Head, neck, spine, tailbone",
     "wrong_answer_3": "Shoulders, elbows, hips, knees",
-    "explanation": "Primary targets are eyes",
-    "null": [
-      " throat",
-      " groin and knees"
-    ]
+    "explanation": "Primary targets are eyes"
   },
   {
     "concept_number": "1",
@@ -34,12 +30,7 @@
     "wrong_answer_1": "Groin",
     "wrong_answer_2": "Eyes",
     "wrong_answer_3": "Throat",
-    "explanation": "Nose is a secondary target - primary are eyes",
-    "null": [
-      " throat",
-      " groin",
-      " knees"
-    ]
+    "explanation": "Nose is a secondary target - primary are eyes"
   },
   {
     "concept_number": "1",
@@ -127,11 +118,7 @@
     "wrong_answer_1": "Attack it only",
     "wrong_answer_2": "Move around it",
     "wrong_answer_3": "Avoid giving it away",
-    "explanation": "Control",
-    "null": [
-      " occupy",
-      " and defend the centerline at all times"
-    ]
+    "explanation": "Control"
   },
   {
     "concept_number": "1",
@@ -148,18 +135,12 @@
     "concept_number": "2",
     "concept_name": "Economy of Motion Theory",
     "question_type": "characteristic",
-    "question_text": "Combat must be simple",
-    "correct_answer": " direct",
-    "wrong_answer_1": " and what?",
-    "wrong_answer_2": "Non-classical (non-traditional)",
-    "wrong_answer_3": "Powerful",
-    "explanation": "Complex",
-    "null": [
-      "Stylized",
-      "Combat must be simple",
-      " direct",
-      " and non-classical"
-    ]
+    "question_text": "Combat must be simple, direct, and what?",
+    "correct_answer": "Non-classical (non-traditional)",
+    "wrong_answer_1": "Powerful",
+    "wrong_answer_2": "Complex",
+    "wrong_answer_3": "Stylized",
+    "explanation": "Combat must be simple, direct, and non-classical"
   },
   {
     "concept_number": "2",
@@ -313,11 +294,7 @@
     "wrong_answer_1": "With more range",
     "wrong_answer_2": "With more options",
     "wrong_answer_3": "With more defense",
-    "explanation": "Dominant side lets you hit harder",
-    "null": [
-      " faster",
-      " more accurately"
-    ]
+    "explanation": "Dominant side lets you hit harder"
   },
   {
     "concept_number": "5",
@@ -416,11 +393,7 @@
     "wrong_answer_1": "Only physical",
     "wrong_answer_2": "Only mental",
     "wrong_answer_3": "Only visual",
-    "explanation": "Telegraphing can be physical",
-    "null": [
-      " emotional",
-      " psychological"
-    ]
+    "explanation": "Telegraphing can be physical"
   },
   {
     "concept_number": "7",
@@ -519,10 +492,7 @@
     "wrong_answer_1": "His elbows",
     "wrong_answer_2": "His fists",
     "wrong_answer_3": "His shoulders",
-    "explanation": "His feet",
-    "null": [
-      "Watch elbows for punches (tertiary focus)"
-    ]
+    "explanation": "His feet"
   },
   {
     "concept_number": "9",
@@ -533,10 +503,7 @@
     "wrong_answer_1": "His knees",
     "wrong_answer_2": "His feet",
     "wrong_answer_3": "His hips",
-    "explanation": "His hands",
-    "null": [
-      "Watch knees for kicks (tertiary focus)"
-    ]
+    "explanation": "His hands"
   },
   {
     "concept_number": "9",
@@ -613,12 +580,7 @@
     "wrong_answer_1": "Odds you'll end up on ground, weapons drawn, multiple enemies attack",
     "wrong_answer_2": "Your advantage",
     "wrong_answer_3": "Your stamina",
-    "explanation": "Your technique",
-    "null": [
-      "Longer fight increases odds of ground",
-      " weapons",
-      " multiple enemies"
-    ]
+    "explanation": "Your technique"
   },
   {
     "concept_number": "12",
@@ -629,13 +591,7 @@
     "wrong_answer_1": " stronger",
     "wrong_answer_2": " and tougher than you",
     "wrong_answer_3": "Against equal opponents",
-    "explanation": "Against weaker opponents",
-    "null": [
-      "With predictable patterns",
-      "Always train as if enemy is bigger",
-      " stronger",
-      " tougher"
-    ]
+    "explanation": "Against weaker opponents"
   },
   {
     "concept_number": "12",
@@ -723,12 +679,7 @@
     "wrong_answer_1": "Front, Back, Left, Right",
     "wrong_answer_2": "Upper, Lower, Center, Side",
     "wrong_answer_3": "Lead, Rear, Top, Bottom",
-    "explanation": "Four corners are High Outside",
-    "null": [
-      " Low Outside",
-      " High Inside",
-      " Low Inside"
-    ]
+    "explanation": "Four corners are High Outside"
   },
   {
     "concept_number": "14",
@@ -915,30 +866,18 @@
     "wrong_answer_1": "Speed, footwork, angulation, sensitivity, explosive force, body mechanics, leverage",
     "wrong_answer_2": "Only power",
     "wrong_answer_3": "Only blocking",
-    "explanation": "Only strength",
-    "null": [
-      "Use speed",
-      " footwork",
-      " angulation",
-      " sensitivity",
-      " explosive force",
-      " mechanics",
-      " leverage"
-    ]
+    "explanation": "Only strength"
   },
   {
     "concept_number": "18",
     "concept_name": "Do Not Meet Force Theory",
     "question_type": "flaw",
-    "question_text": "If you have to strain muscles to beat him",
+    "question_text": "If you have to strain muscles to beat him, what is wrong?",
     "correct_answer": "Your technique is flawed",
     "wrong_answer_1": "You need more power",
     "wrong_answer_2": "You're doing right",
     "wrong_answer_3": "You need more training",
-    "explanation": "Straining muscles means technique is flawed",
-    "null": [
-      "Straining muscles means technique is flawed"
-    ]
+    "explanation": "Straining muscles means technique is flawed"
   },
   {
     "concept_number": "18",
@@ -1004,11 +943,7 @@
     "wrong_answer_1": "Slowly with control",
     "wrong_answer_2": "Steadily with pressure",
     "wrong_answer_3": "Gradually building",
-    "explanation": "Hit delivered suddenly with explosive force",
-    "null": [
-      " velocity",
-      " penetration"
-    ]
+    "explanation": "Hit delivered suddenly with explosive force"
   },
   {
     "concept_number": "19",
@@ -1052,13 +987,7 @@
     "wrong_answer_1": " Forward Pressure",
     "wrong_answer_2": " Killer Instinct",
     "wrong_answer_3": "Stop and assess",
-    "explanation": "Reset stance",
-    "null": [
-      "Back away",
-      "Continue with ABC",
-      " Forward Pressure",
-      " Killer Instinct"
-    ]
+    "explanation": "Reset stance"
   },
   {
     "concept_number": "20",
@@ -1102,11 +1031,7 @@
     "wrong_answer_1": "Only strength",
     "wrong_answer_2": "Only speed",
     "wrong_answer_3": "Only flexibility",
-    "explanation": "Body mechanics involve compact power",
-    "null": [
-      " structure",
-      " leverage"
-    ]
+    "explanation": "Body mechanics involve compact power"
   },
   {
     "concept_number": "21",
@@ -1337,11 +1262,7 @@
     "wrong_answer_1": "Interception",
     "wrong_answer_2": "Evasion only",
     "wrong_answer_3": "Blocking",
-    "explanation": "Third level is Parrying",
-    "null": [
-      " Trapping",
-      " Counter-Attacking"
-    ]
+    "explanation": "Third level is Parrying"
   },
   {
     "concept_number": "24",
@@ -1484,13 +1405,7 @@
     "wrong_answer_1": "Hard and rigid",
     "wrong_answer_2": "Strong as steel",
     "wrong_answer_3": "Immovable",
-    "explanation": "Lead forearm is soft",
-    "null": [
-      " yielding",
-      " flexible",
-      " sensitive",
-      " adaptable"
-    ]
+    "explanation": "Lead forearm is soft"
   },
   {
     "concept_number": "27",
@@ -2271,15 +2186,7 @@
     "wrong_answer_1": " tradition",
     "wrong_answer_2": " race",
     "wrong_answer_3": " preferences",
-    "explanation": "Nothing",
-    "null": [
-      "Only one style",
-      "Physical limits",
-      "Transcend boundaries of style",
-      " tradition",
-      " race",
-      " preferences"
-    ]
+    "explanation": "Nothing"
   },
   {
     "concept_number": "41",

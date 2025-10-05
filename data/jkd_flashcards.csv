@@ -1,7 +1,7 @@
 concept_number,concept_name,question_type,question_text,correct_answer,wrong_answer_1,wrong_answer_2,wrong_answer_3,explanation
 1,Centerline Theory,definition,What is the centerline in JKD?,An imaginary vertical line that runs along the center of the body,A physical line on the floor,The line between you and opponent,Your spine,The centerline is an imaginary vertical line that runs along the center of the body
-1,Centerline Theory,targets,What are the primary targets on the centerline?,"Eyes, throat, groin, and knees","Nose, mouth, chin, sternum","Head, neck, spine, tailbone","Shoulders, elbows, hips, knees",Primary targets are eyes, throat, groin and knees
-1,Centerline Theory,targets,Name a secondary target on the centerline,Nose,Groin,Eyes,Throat,Nose is a secondary target - primary are eyes, throat, groin, knees
+1,Centerline Theory,targets,What are the primary targets on the centerline?,"Eyes, throat, groin, and knees","Nose, mouth, chin, sternum","Head, neck, spine, tailbone","Shoulders, elbows, hips, knees",Primary targets are eyes
+1,Centerline Theory,targets,Name a secondary target on the centerline,Nose,Groin,Eyes,Throat,Nose is a secondary target - primary are eyes
 1,Centerline Theory,targets,Name another secondary target on the centerline,Solar plexus,Eyes,Knees,Throat,Solar plexus is a secondary target
 1,Centerline Theory,targets,What is a back target in centerline theory?,Spine,Nose,Solar plexus,Groin,Spine is a target in the back
 1,Centerline Theory,principle,"In emptiness, you hit in a _____ line",Straight,Curved,Circular,Angled,In emptiness you hit in a straight line
@@ -9,9 +9,9 @@ concept_number,concept_name,question_type,question_text,correct_answer,wrong_ans
 1,Centerline Theory,direction,All offense is directed to where?,The centerline,The opponent's weak points,The outer areas,Multiple angles,All offense is directed to the centerline
 1,Centerline Theory,direction,All defense originates from where?,The centerline,The hands,The feet,The shoulders,All defense originates from the centerline
 1,Centerline Theory,footwork,All footwork is designed to do what to the centerline?,Intercept the centerline,Avoid the centerline,Circle the centerline,Defend the centerline,All footwork is designed to intercept the centerline
-1,Centerline Theory,control,What three things should you do with the centerline at all times?,"Control, occupy, and defend it",Attack it only,Move around it,Avoid giving it away,Control, occupy, and defend the centerline at all times
+1,Centerline Theory,control,What three things should you do with the centerline at all times?,"Control, occupy, and defend it",Attack it only,Move around it,Avoid giving it away,Control
 1,Centerline Theory,efficiency,Centerline control uses what principle?,Economy of motion,Maximum power,Complex movements,Traditional forms,Centerline control uses economy of motion
-2,Economy of Motion Theory,characteristic,Combat must be simple, direct, and what?,Non-classical (non-traditional),Powerful,Complex,Stylized,Combat must be simple, direct, and non-classical
+2,Economy of Motion Theory,characteristic,"Combat must be simple, direct, and what?",Non-classical (non-traditional),Powerful,Complex,Stylized,"Combat must be simple, direct, and non-classical"
 2,Economy of Motion Theory,principle,Motions should go where?,Directly to the target,Around the guard,In circular patterns,Through feints first,Motions should go directly to the target
 2,Economy of Motion Theory,energy,Your actions must have no wasted what?,Energy and unnecessary motion,Power,Speed,Technique,Actions must have no wasted energy and unnecessary motion
 2,Economy of Motion Theory,distance,The shortest distance between two points is what?,A straight line,A curve,An arc,A zigzag,The shortest distance between two points is a straight line
@@ -25,7 +25,7 @@ concept_number,concept_name,question_type,question_text,correct_answer,wrong_ans
 4,Fighting Measure Theory,avoidance,What range should you avoid starting a fight in?,Trading blows range,Kicking range,Proper distance,Far range,Avoid starting fight in trading blows range
 4,Fighting Measure Theory,awareness,What should you maintain to avoid tunnel vision?,A 360 circle of awareness,Focus on hands,Focus on feet,Focus on eyes,Maintain 360 circle of awareness to avoid tunnel vision
 5,Power Side Forward Theory,lead,Which side should you lead with?,Your dominant side,Your weaker side,Either side equally,Left side always,Lead with your dominant side
-5,Power Side Forward Theory,benefits,Leading with dominant side allows you to hit how?,"Harder, faster, and more accurately",With more range,With more options,With more defense,Dominant side lets you hit harder, faster, more accurately
+5,Power Side Forward Theory,benefits,Leading with dominant side allows you to hit how?,"Harder, faster, and more accurately",With more range,With more options,With more defense,Dominant side lets you hit harder
 5,Power Side Forward Theory,hands,Both hands have what kind of power?,Knockout power,Equal power,Defensive power only,Limited power,Both hands have knockout power - no weak hand
 5,Power Side Forward Theory,origin,Where did Bruce Lee take this concept from?,Fencing,Boxing,Karate,Wing Chun,Bruce Lee took this from Fencing
 6,Forward Pressure Theory,effect,What does powerful driving energy do?,Pushes him back forcing him to backpedal,Pulls opponent forward,Keeps you centered,Makes you retreat,Powerful driving energy pushes him back forcing backpedal
@@ -34,7 +34,7 @@ concept_number,concept_name,question_type,question_text,correct_answer,wrong_ans
 6,Forward Pressure Theory,analogy,Forward pressure is like what?,Water flowing through the smallest crack seeking an opening,A brick wall,A coiled spring,A static stance,Like water flowing through smallest crack seeking opening
 6,Forward Pressure Theory,feeling,What should opponent feel at all times?,Alive tension against his arms or body,Nothing,Only occasional contact,Complete relaxation,Opponent should feel alive tension at all times
 7,Non-Telegraphic Motion Theory,principle,What should you never show your opponent?,What you are about to do before you do it,Your strength,Your stance,Your style,Never show what you're about to do before doing it
-7,Non-Telegraphic Motion Theory,types,Telegraphing can be what three types?,"Physical, emotional, and psychological",Only physical,Only mental,Only visual,Telegraphing can be physical, emotional, psychological
+7,Non-Telegraphic Motion Theory,types,Telegraphing can be what three types?,"Physical, emotional, and psychological",Only physical,Only mental,Only visual,Telegraphing can be physical
 7,Non-Telegraphic Motion Theory,striking,How should you hit?,From where you are,After resetting position,After chambering,After stepping back,Hit from where you are - no reset before striking
 8,Simultaneous Attack & Defense,chinese,What is the Chinese term for simultaneous attack and defense?,Lin Sil Dai Da,Chi Sao,Bong Sau,Wu Sau,Lin Sil Dai Da means simultaneous attack and defense
 8,Simultaneous Attack & Defense,timing,When should you attack and defend?,At the same time,Defense first,Attack first,Separately,Attack at the same time you defend
@@ -43,16 +43,16 @@ concept_number,concept_name,question_type,question_text,correct_answer,wrong_ans
 8,Simultaneous Attack & Defense,style,What style is JKD?,Offensive,Defensive,Reactive,Counter-based,JKD is an offensive style
 9,Visual Focus Principles,primary,What is the primary visual focus?,His solar plexus,His eyes,His hands,His feet,Primary visual focus is solar plexus
 9,Visual Focus Principles,secondary,What is the secondary visual focus?,His head,His hands,His feet,His torso,Secondary visual focus is head
-9,Visual Focus Principles,tertiary_punches,For punches, the tertiary visual focus is what?,His elbows,His fists,His shoulders,His feet,Watch elbows for punches (tertiary focus)
-9,Visual Focus Principles,tertiary_kicks,For kicks, the tertiary visual focus is what?,His knees,His feet,His hips,His hands,Watch knees for kicks (tertiary focus)
+9,Visual Focus Principles,tertiary_punches,For punches, the tertiary visual focus is what?,His elbows,His fists,His shoulders,His feet
+9,Visual Focus Principles,tertiary_kicks,For kicks, the tertiary visual focus is what?,His knees,His feet,His hips,His hands
 9,Visual Focus Principles,vision_type,What type of vision should you avoid?,Focal vision,Peripheral vision,Wide vision,Full vision,Avoid focal vision - widen field of vision
 10,Time-Distance Variable,less_distance,Less distance from opponent means what?,Less time to react,More time to react,Same time to react,Better defense,Less distance means less time to react
 10,Time-Distance Variable,more_distance,More distance from opponent means what?,More time to react,Less time to react,Same time to react,Better offense,More distance means more time to react
 10,Time-Distance Variable,defensive,Defensively you want what kind of distance?,More distance to give more reaction time,Less distance,No distance,Medium distance,Defensively want more distance for reaction time
 10,Time-Distance Variable,offensive,Offensively you want to do what with distance?,Close distance quickly to give him no reaction time,Maintain distance,Increase distance,Keep medium distance,Offensively close distance quickly for no reaction time
 11,9-Second Rule,time,You must end the fight in less than how many seconds?,9 seconds,5 seconds,15 seconds,30 seconds,Must end fight in less than 9 seconds
-11,9-Second Rule,consequence,The longer the fight, what increases?,"Odds you'll end up on ground, weapons drawn, multiple enemies attack",Your advantage,Your stamina,Your technique,Longer fight increases odds of ground, weapons, multiple enemies
-12,Worst-Case Scenario Theory,training,How should you always train?,As if enemy is bigger, stronger, and tougher than you,Against equal opponents,Against weaker opponents,With predictable patterns,Always train as if enemy is bigger, stronger, tougher
+11,9-Second Rule,consequence,The longer the fight, what increases?,"Odds you'll end up on ground, weapons drawn, multiple enemies attack",Your advantage,Your stamina,Your technique
+12,Worst-Case Scenario Theory,training,How should you always train?,As if enemy is bigger, stronger, and tougher than you,Against equal opponents,Against weaker opponents
 12,Worst-Case Scenario Theory,weapon,What should you always assume about your enemy?,They have a weapon even if you cannot see it,They are unarmed,They won't use weapons,They have no tools,Always assume enemy has weapon even if unseen
 12,Worst-Case Scenario Theory,numbers,What should you assume about enemy's friends?,They have friends coming to help,They are alone,They have no backup,They work solo,Always assume enemy has friends coming
 12,Worst-Case Scenario Theory,mindset,What should you never do?,Underestimate anyone,Overestimate yourself,Be too cautious,Hesitate,Don't underestimate anyone
@@ -60,7 +60,7 @@ concept_number,concept_name,question_type,question_text,correct_answer,wrong_ans
 13,Four Corners Theory,boundaries,Your hands should never go where?,Outside these boundaries,Inside the boundaries,To centerline,Forward,Hands never go outside these boundaries
 13,Four Corners Theory,strategy,What should you do when opponent enters a corner?,Close the gate upon the attack,Open all gates,Retreat,Change stance,Close the gate upon attack when opponent enters corner
 13,Four Corners Theory,chase,What should you NOT chase?,The attacking tool,The opponent,Distance,Angles,Do not chase the attacking tool - let it come to you
-13,Four Corners Theory,list,Name the four corners,"High Outside, Low Outside, High Inside, Low Inside","Front, Back, Left, Right","Upper, Lower, Center, Side","Lead, Rear, Top, Bottom",Four corners are High Outside, Low Outside, High Inside, Low Inside
+13,Four Corners Theory,list,Name the four corners,"High Outside, Low Outside, High Inside, Low Inside","Front, Back, Left, Right","Upper, Lower, Center, Side","Lead, Rear, Top, Bottom",Four corners are High Outside
 14,Three Attack Lines Theory,count,How many attack lines are there?,3,2,4,5,There are three attack lines
 14,Three Attack Lines Theory,line1,What is Attack Line 1?,Centerline (Attack is Straight),Angled attack,Side attack,Circular attack,Attack Line 1 is Centerline - straight
 14,Three Attack Lines Theory,line2,What is Attack Line 2?,Slanted (Attack is Angled to Opposite Shoulder),Centerline,Side of head,Straight line,Attack Line 2 is Slanted - angled to opposite shoulder
@@ -77,22 +77,22 @@ concept_number,concept_name,question_type,question_text,correct_answer,wrong_ans
 17,Five Gates Theory,addition,What did Bruce Lee add as the fifth gate?,From the waist down to the feet,The head area,The shoulder area,The chest area,Bruce Lee added fifth gate from waist down to feet
 17,Five Gates Theory,purpose,What was the fifth gate made for?,Kicking offense and defense,Punching,Trapping,Grappling,Fifth gate made for kicking offense and defense
 17,Five Gates Theory,division,How is the fifth gate divided?,Front and rear leg,Left and right,Upper and lower,Inner and outer,Fifth gate divided into front and rear leg
-18,Do Not Meet Force Theory,method,To defeat strength, what should you use?,"Speed, footwork, angulation, sensitivity, explosive force, body mechanics, leverage",Only power,Only blocking,Only strength,Use speed, footwork, angulation, sensitivity, explosive force, mechanics, leverage
-18,Do Not Meet Force Theory,flaw,If you have to strain muscles to beat him, what is wrong?,Your technique is flawed,You need more power,You're doing right,You need more training,Straining muscles means technique is flawed
+18,Do Not Meet Force Theory,method,To defeat strength, what should you use?,"Speed, footwork, angulation, sensitivity, explosive force, body mechanics, leverage",Only power,Only blocking,Only strength
+18,Do Not Meet Force Theory,flaw,"If you have to strain muscles to beat him, what is wrong?",Your technique is flawed,You need more power,You're doing right,You need more training,Straining muscles means technique is flawed
 18,Do Not Meet Force Theory,block_def,What does blocking mean?,Putting yourself in the way of attack to stop it,Redirecting attack,Moving away,Evading,Blocking is putting yourself in way of attack to stop it
 18,Do Not Meet Force Theory,deflect_def,What does deflecting mean?,Moving yourself away from attack and redirecting his force,Stopping attack directly,Meeting force with force,Pushing against attack,Deflecting is moving away and redirecting force
 18,Do Not Meet Force Theory,preference,Which is preferable - blocking or deflecting?,Deflecting,Blocking,Both equally,Neither,Deflecting is preferable
 18,Do Not Meet Force Theory,block_limit,When does blocking work?,If you are the same size as opponent,Against any opponent,Against bigger opponents,Against faster opponents,Blocking works if same size as opponent
 19,Relax-Explode Principle,state,What state should you maintain until striking?,Loose and relaxed physical and mental state,Tense and ready,Partially tensed,Constantly explosive,Maintain loose and relaxed state until striking
-19,Relax-Explode Principle,delivery,How should your hit be delivered?,"Suddenly with maximum explosive force, velocity, and deep penetration",Slowly with control,Steadily with pressure,Gradually building,Hit delivered suddenly with explosive force, velocity, penetration
+19,Relax-Explode Principle,delivery,How should your hit be delivered?,"Suddenly with maximum explosive force, velocity, and deep penetration",Slowly with control,Steadily with pressure,Gradually building,Hit delivered suddenly with explosive force
 19,Relax-Explode Principle,creation,What creates explosive force?,Going from relaxed state to sudden burst of speed and high intensity,Constant tension,Gradual acceleration,Maximum tension,Explosive force from relaxed to sudden burst
 19,Relax-Explode Principle,trajectory,What does explosive force do toward the target?,Accelerates toward target and goes past it,Slows near target,Stops at target,Bounces off,Explosive force accelerates and goes past target
 19,Relax-Explode Principle,return,When should you return to relaxed state?,As soon as possible after striking,Stay tensed after,Wait several seconds,Never return,Return to relaxed state as soon as possible after striking
-20,Follow-Up Theory,entry,What should you do upon successful entry?,Continue attack with aggressive ABC, Forward Pressure, Killer Instinct,Stop and assess,Reset stance,Back away,Continue with ABC, Forward Pressure, Killer Instinct
+20,Follow-Up Theory,entry,What should you do upon successful entry?,Continue attack with aggressive ABC, Forward Pressure, Killer Instinct,Stop and assess,Reset stance
 20,Follow-Up Theory,prevent,What should you never allow opponent to do?,Regain his base and balance,See next move,Touch you,Move backward,Never allow opponent to regain base and balance
 20,Follow-Up Theory,stop,When should you stop attacking?,When enemy is sufficiently immobilized,After first hit,After three strikes,When tired,Stop when enemy is sufficiently immobilized
 20,Follow-Up Theory,assumption,What should you assume about your strikes?,Nothing is final,First will finish,Opponent will quit,One is enough,Assume nothing is final - always follow up
-21,Body Mechanics Theory,components,Body mechanics involve what three things?,"Compact power, efficient structure, leverage",Only strength,Only speed,Only flexibility,Body mechanics involve compact power, structure, leverage
+21,Body Mechanics Theory,components,Body mechanics involve what three things?,"Compact power, efficient structure, leverage",Only strength,Only speed,Only flexibility,Body mechanics involve compact power
 21,Body Mechanics Theory,stage1,What is Stage 1 of proper punching mechanics?,Driving from Foot to Hip,Hip to Shoulder,Shoulder to Hand,Hand to Target,Stage 1 is Driving from Foot to Hip
 21,Body Mechanics Theory,stage2,What is Stage 2 of proper punching mechanics?,Fast Rotation from Hip to Shoulder,Foot to Hip,Shoulder to Hand,Hand to Target,Stage 2 is Fast Rotation from Hip to Shoulder
 21,Body Mechanics Theory,stage3,What is Stage 3 of proper punching mechanics?,Loose and Relaxed Whipping Energy from Shoulder to Hand,Foot to Hip,Hip to Shoulder,Final impact,Stage 3 is Loose Whipping Energy from Shoulder to Hand
@@ -113,7 +113,7 @@ concept_number,concept_name,question_type,question_text,correct_answer,wrong_ans
 23,Three Levels of Defense,count,How many levels of defense are there?,3,2,4,5,There are three levels of defense
 23,Three Levels of Defense,level1,What is the first level of defense?,Interception - respond by intercepting his movement with an attack,Evasion,Parrying,Blocking,First level is Interception
 23,Three Levels of Defense,level2,What is the second level of defense?,Evasion and Footwork - respond by evading then counter-attacking,Interception,Parrying,Trapping,Second level is Evasion and Footwork
-23,Three Levels of Defense,level3,What is the third level of defense?,"Parrying, Trapping, and Counter-Attacking",Interception,Evasion only,Blocking,Third level is Parrying, Trapping, Counter-Attacking
+23,Three Levels of Defense,level3,What is the third level of defense?,"Parrying, Trapping, and Counter-Attacking",Interception,Evasion only,Blocking,Third level is Parrying
 24,Immovable Elbow Moving Line,strength,The lead elbow must be as strong as what?,Steel,Iron,Wood,Flexible rubber,Lead elbow must be as strong as steel
 24,Immovable Elbow Moving Line,alignment,Where must the lead elbow be lined up?,On the centerline,To the side,Behind you,Above centerline,Lead elbow must be lined up on centerline
 24,Immovable Elbow Moving Line,placement,How far from body should lead elbow be placed?,About one and a half fist length,One fist,Two fists,Three fists,Lead elbow about one and a half fist length from body
@@ -126,7 +126,7 @@ concept_number,concept_name,question_type,question_text,correct_answer,wrong_ans
 26,Three Sticks Theory,stick1,What is Stick 1?,Centerline - protect and defend at all costs,Lead Elbow,Lead Forearm,Rear hand,Stick 1 is Centerline - protect and defend at all costs
 26,Three Sticks Theory,stick2,What is Stick 2?,Lead Elbow - Strong as Steel - never allow to collapse,Centerline,Lead Forearm,Rear Elbow,Stick 2 is Lead Elbow - Strong as Steel
 26,Three Sticks Theory,stick3,What is Stick 3?,Lead Forearm - Soft as Blade of Grass,Centerline,Lead Elbow,Wu Sau hand,Stick 3 is Lead Forearm - Soft as Blade of Grass
-26,Three Sticks Theory,qualities,Lead forearm should be what qualities?,"Soft, yielding, flexible, sensitive, adaptable",Hard and rigid,Strong as steel,Immovable,Lead forearm is soft, yielding, flexible, sensitive, adaptable
+26,Three Sticks Theory,qualities,Lead forearm should be what qualities?,"Soft, yielding, flexible, sensitive, adaptable",Hard and rigid,Strong as steel,Immovable,Lead forearm is soft
 27,Flow Theory,definition,What is flowing?,Non-stop continuous motion that changes without missing a beat,Stopping between techniques,Rigid movements,Predictable patterns,Flowing is non-stop continuous motion without missing beat
 27,Flow Theory,avoid,What should you never meet?,Strength with strength or force with force,Speed with speed,Skill with skill,Technique with technique,Never meet strength with strength or force with force
 27,Flow Theory,requirement,What must you do with the situation?,Flow with the situation,Resist it,Dominate it,Avoid it,You must flow with the situation
@@ -197,7 +197,7 @@ concept_number,concept_name,question_type,question_text,correct_answer,wrong_ans
 41,JKD Symbol Meaning,state,What state describes no-mindedness?,Unconscious consciousness or conscious unconsciousness,Full awareness,Deep meditation,Complete focus,No-mindedness is unconscious consciousness or conscious unconsciousness
 41,JKD Symbol Meaning,element,What should you be like when using no-way approach?,Like water,Like stone,Like fire,Like air,Be like water when using no-way
 41,JKD Symbol Meaning,water,What does water do?,Automatically assumes the container it is poured in,Resists container,Breaks container,Flows over,Water automatically assumes container
-41,JKD Symbol Meaning,transcend,What can you transcend with no limitation?,Martial arts boundaries set by style, tradition, race, preferences,Nothing,Only one style,Physical limits,Transcend boundaries of style, tradition, race, preferences
+41,JKD Symbol Meaning,transcend,What can you transcend with no limitation?,Martial arts boundaries set by style, tradition, race, preferences,Nothing
 41,JKD Symbol Meaning,freedom,What freedom did Lee give?,To explore martial arts with only limit being two hands and two feet,No freedom,Complete freedom,Limited freedom,Freedom to explore with limit of two hands two feet
 41,JKD Symbol Meaning,knowledge,What does knowledge ultimately mean?,Self-knowledge,Book knowledge,Technical knowledge,Fighting knowledge,Knowledge ultimately means self-knowledge
 41,JKD Symbol Meaning,express,What can you do with this freedom?,Honestly express yourself,Copy others,Follow tradition only,Stick to one way,With freedom honestly express yourself
