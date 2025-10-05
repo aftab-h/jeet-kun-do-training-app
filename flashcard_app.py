@@ -122,7 +122,15 @@ CONCEPT_TEXTS = {
 2. A.B.C. – Attack by Combination
 3. H.I.A./F.I.A. – Hand/Foot Immobilization Attack (Trapping)
 4. P.I.A. – Progressive Indirect Attack
-5. A.B.D. – Attack by Drawing""",
+5. A.B.D. – Attack by Drawing
+
+--- Study Notes ---
+
+1. SAA 🤛 / SDA 👊 - Single Angular Attack / Single Direct Attack. Remember, this is single. It is direct or angled. SINGLE. This is like Karate.
+2. ABC 🥊🥊 - Attack by Combination.
+3. HIA 🤝 / FIA 🦶 - Hand / Foot Immobilization Attack.
+4. PIA 🫳🤜 - Progressive Indirect Attack. eg Ping Chou -> Gua Choy. The low fake then facepunch. It's preceded by a feint or an uncommitted strike which is meant to misdirect your opponent's actions or reactions in order to hit an open line or gain a period of movement-time. It is one movement which changes direction, but is preceded by a feint.
+5. ABD 🤏 - Attack by Draw. [It's a SETUP]. An attack or counterattack initiated upon luring the opponent into a commitment by leaving him an apparent opening in your defenses, or performing movements that he may try to time and counter.""",
 
     16: """Immovable Elbow Theory
 
