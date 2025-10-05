@@ -15,7 +15,7 @@ class FlashcardApp:
     def __init__(self, root):
         self.root = root
         self.root.title("Jeet Kune Do Training - Flashcard App")
-        self.root.geometry("900x600")
+        self.root.geometry("900x750")
         self.root.configure(bg='#1a1a1a')
 
         # Data
@@ -128,7 +128,7 @@ class FlashcardApp:
             self.answer_buttons.append(btn)
 
         # Feedback frame
-        self.feedback_frame = tk.Frame(self.root, bg='#1a1a1a', height=80)
+        self.feedback_frame = tk.Frame(self.root, bg='#1a1a1a', height=100)
         self.feedback_frame.pack(fill='x', padx=10, pady=5)
         self.feedback_frame.pack_propagate(False)
 
