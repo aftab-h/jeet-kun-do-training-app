@@ -231,11 +231,11 @@ class FlashcardApp:
             answer_text = btn.cget('text')[3:]  # Remove "A) ", "B) ", etc.
 
             if answer_text == correct_answer:
-                btn.config(bg='#4CAF50', fg='#000000', state='disabled')
+                btn.config(bg='#4CAF50', fg='#ffffff', state='disabled')
             elif answer_text == selected_answer and not is_correct:
-                btn.config(bg='#f44336', fg='#000000', state='disabled')
+                btn.config(bg='#f44336', fg='#ffffff', state='disabled')
             else:
-                btn.config(state='disabled', bg='#888888', fg='#000000')
+                btn.config(state='disabled', bg='#888888', fg='#ffffff')
 
         # Show feedback
         if is_correct:
