@@ -931,11 +931,11 @@
     "concept_name": "Do Not Meet Force Theory",
     "question_type": "flaw",
     "question_text": "If you have to strain muscles to beat him",
-    "correct_answer": " what is wrong?",
-    "wrong_answer_1": "Your technique is flawed",
-    "wrong_answer_2": "You need more power",
-    "wrong_answer_3": "You're doing right",
-    "explanation": "You need more training",
+    "correct_answer": "Your technique is flawed",
+    "wrong_answer_1": "You need more power",
+    "wrong_answer_2": "You're doing right",
+    "wrong_answer_3": "You need more training",
+    "explanation": "Straining muscles means technique is flawed",
     "null": [
       "Straining muscles means technique is flawed"
     ]
