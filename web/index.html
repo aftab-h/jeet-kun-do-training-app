@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jeet Kune Do Training - Flashcard App</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <!-- Header -->
+        <header class="header">
+            <h1>🥋 JEET KUNE DO TRAINING</h1>
+        </header>
+
+        <!-- Score Display -->
+        <div class="score-bar">
+            <div id="score-display" class="score">Score: 0/0 (0%)</div>
+            <div id="concept-display" class="concept-info">Concept: Loading...</div>
+        </div>
+
+        <!-- Question Display -->
+        <div class="question-container">
+            <h2 id="question-text">Loading question...</h2>
+        </div>
+
+        <!-- Answer Buttons -->
+        <div class="answers-container">
+            <button class="answer-btn" id="answer-0"></button>
+            <button class="answer-btn" id="answer-1"></button>
+            <button class="answer-btn" id="answer-2"></button>
+            <button class="answer-btn" id="answer-3"></button>
+        </div>
+
+        <!-- Feedback -->
+        <div id="feedback" class="feedback"></div>
+
+        <!-- Control Buttons -->
+        <div class="controls">
+            <button id="reset-btn" class="control-btn reset-btn">Reset Score</button>
+            <button id="source-btn" class="control-btn source-btn" disabled>📖 View Source Material</button>
+            <button id="next-btn" class="control-btn next-btn" disabled>Next Question →</button>
+        </div>
+    </div>
+
+    <!-- Source Material Modal -->
+    <div id="source-modal" class="modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2 id="modal-title">Source Material</h2>
+                <button class="close-btn" id="close-modal">&times;</button>
+            </div>
+            <div class="modal-body">
+                <pre id="source-text"></pre>
+            </div>
+            <button class="control-btn next-btn" id="close-modal-btn">Close</button>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
