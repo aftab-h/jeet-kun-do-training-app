@@ -2220,5 +2220,148 @@
     "wrong_answer_2": "Follow tradition only",
     "wrong_answer_3": "Stick to one way",
     "explanation": "With freedom honestly express yourself"
+  },
+  {
+    "concept_number": "11",
+    "concept_name": "9-Second Rule",
+    "question_type": "reason",
+    "question_text": "Why must fights end quickly according to the 9-Second Rule?",
+    "correct_answer": "The longer the fight, the worse your odds become",
+    "wrong_answer_1": "To conserve energy",
+    "wrong_answer_2": "To look impressive",
+    "wrong_answer_3": "To avoid injury",
+    "explanation": "Longer fights dramatically decrease winning odds"
+  },
+  {
+    "concept_number": "11",
+    "concept_name": "9-Second Rule",
+    "question_type": "tactical",
+    "question_text": "What three dangers increase the longer a fight lasts?",
+    "correct_answer": "Ending up on ground, weapons being drawn, multiple attackers",
+    "wrong_answer_1": "Getting tired, losing focus, making mistakes",
+    "wrong_answer_2": "Police arriving, crowd forming, getting injured",
+    "wrong_answer_3": "Losing balance, missing strikes, telegraphing",
+    "explanation": "Ground fighting, weapons, and multiple enemies become more likely"
+  },
+  {
+    "concept_number": "11",
+    "concept_name": "9-Second Rule",
+    "question_type": "strategy",
+    "question_text": "What does the 9-Second Rule teach about fight strategy?",
+    "correct_answer": "Finish fast with aggressive overwhelming force",
+    "wrong_answer_1": "Take your time and be careful",
+    "wrong_answer_2": "Wait for the perfect opening",
+    "wrong_answer_3": "Defend and counter only",
+    "explanation": "Must finish quickly with aggressive force"
+  },
+  {
+    "concept_number": "30",
+    "concept_name": "Straight-Line Attack Theory",
+    "question_type": "geometry",
+    "question_text": "Why do we attack in straight lines?",
+    "correct_answer": "Because it's the shortest distance to the target",
+    "wrong_answer_1": "Because it's the most powerful",
+    "wrong_answer_2": "Because it's easier to learn",
+    "wrong_answer_3": "Because it looks better",
+    "explanation": "Straight lines are the shortest distance"
+  },
+  {
+    "concept_number": "30",
+    "concept_name": "Straight-Line Attack Theory",
+    "question_type": "economy",
+    "question_text": "How does Straight-Line Attack relate to Economy of Motion?",
+    "correct_answer": "Both emphasize directness and no wasted movement",
+    "wrong_answer_1": "They are unrelated concepts",
+    "wrong_answer_2": "One is for offense, one for defense",
+    "wrong_answer_3": "They contradict each other",
+    "explanation": "Straight lines embody economy of motion"
+  },
+  {
+    "concept_number": "30",
+    "concept_name": "Straight-Line Attack Theory",
+    "question_type": "comparison",
+    "question_text": "What is wrong with circular or looping attacks?",
+    "correct_answer": "They waste time and distance traveling to the target",
+    "wrong_answer_1": "They are too powerful",
+    "wrong_answer_2": "They are too difficult",
+    "wrong_answer_3": "They are too defensive",
+    "explanation": "Circular attacks waste time and distance"
+  },
+  {
+    "concept_number": "7",
+    "concept_name": "Non-Telegraphic Motion Theory",
+    "question_type": "awareness",
+    "question_text": "What must you clean up to avoid telegraphing?",
+    "correct_answer": "Your communication - physical, emotional, and psychological",
+    "wrong_answer_1": "Only your physical movements",
+    "wrong_answer_2": "Only your facial expressions",
+    "wrong_answer_3": "Only your breathing",
+    "explanation": "Must clean up all forms of communication"
+  },
+  {
+    "concept_number": "7",
+    "concept_name": "Non-Telegraphic Motion Theory",
+    "question_type": "execution",
+    "question_text": "What does 'hit from where you are' mean?",
+    "correct_answer": "Strike immediately without resetting or chambering",
+    "wrong_answer_1": "Stay in one place while fighting",
+    "wrong_answer_2": "Only strike from your stance",
+    "wrong_answer_3": "Don't move your feet",
+    "explanation": "Strike without any preparatory motion"
+  },
+  {
+    "concept_number": "7",
+    "concept_name": "Non-Telegraphic Motion Theory",
+    "question_type": "warning",
+    "question_text": "What is the main danger of telegraphing?",
+    "correct_answer": "You alert the opponent to what you're about to do",
+    "wrong_answer_1": "You waste energy",
+    "wrong_answer_2": "You look unprofessional",
+    "wrong_answer_3": "You lose balance",
+    "explanation": "Telegraphing alerts the opponent in advance"
+  },
+  {
+    "concept_number": "25",
+    "concept_name": "Hammer Principle",
+    "question_type": "visualization",
+    "question_text": "What motion does the Hammer Principle mimic?",
+    "correct_answer": "Dropping a hammer straight down onto a target",
+    "wrong_answer_1": "Swinging a hammer sideways",
+    "wrong_answer_2": "Lifting a hammer up",
+    "wrong_answer_3": "Rotating a hammer in circles",
+    "explanation": "Mimics dropping a hammer straight down"
+  },
+  {
+    "concept_number": "25",
+    "concept_name": "Hammer Principle",
+    "question_type": "benefit",
+    "question_text": "Why doesn't the Hammer Principle telegraph?",
+    "correct_answer": "The aiming and striking happen almost simultaneously",
+    "wrong_answer_1": "It uses maximum power",
+    "wrong_answer_2": "It moves in a circle",
+    "wrong_answer_3": "It's too fast to see",
+    "explanation": "Aiming and striking are nearly simultaneous"
+  },
+  {
+    "concept_number": "29",
+    "concept_name": "Longest Weapon Theory",
+    "question_type": "example",
+    "question_text": "If enemy's face is closest to your head, what might be best?",
+    "correct_answer": "A quick headbutt to the nose",
+    "wrong_answer_1": "Pull back and punch",
+    "wrong_answer_2": "Step back and kick",
+    "wrong_answer_3": "Use rear hand only",
+    "explanation": "Use nearest weapon (head) to nearest target (face)"
+  },
+  {
+    "concept_number": "29",
+    "concept_name": "Longest Weapon Theory",
+    "question_type": "philosophy",
+    "question_text": "What does this theory teach about weapon selection?",
+    "correct_answer": "Choose based on proximity and geometry, not preference",
+    "wrong_answer_1": "Always use your strongest technique",
+    "wrong_answer_2": "Always use your favorite move",
+    "wrong_answer_3": "Always use the same pattern",
+    "explanation": "Weapon choice is tactical, not preferential"
   }
 ]
